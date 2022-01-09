@@ -1,0 +1,167 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="384" height="676" viewBox="0 0 384 676">
+    <style type="text/css"><![CDATA[
+.st2 {fill:#1f6391;font-family:宋体;font-size:10pt}
+.st1 {fill:#ffffff;font-family:宋体;font-size:10pt}
+]]></style>
+    <defs/>
+    <g transform="translate(-551.29,-46)">
+        <g transform="translate(569,123)" id="shape1">
+            <path d="M329,43L329,0L0,0L0,43L329,43z" stroke="#3498db" fill="#3498db"/>
+            <text class="st1">
+                <tspan y="26.5" x="144.7">Unpack</tspan>
+            </text>
+        </g>
+        <g transform="translate(569,203)" id="shape2">
+            <path d="M69,43L69,0L0,0L0,43L69,43z" stroke="#3498db" fill="#3498db"/>
+            <text class="st1">
+                <tspan y="26.5" x="24.7">XOR</tspan>
+            </text>
+        </g>
+        <g transform="translate(669.5,203)" id="shape3">
+            <path d="M76.5,43L76.5,0L0,0L0,43L76.5,43z" stroke="#3498db" fill="#3498db"/>
+            <text class="st1">
+                <tspan y="18.8" x="28.3">Add </tspan>
+                <tspan y="34.2" x="8.3">Exponents</tspan>
+            </text>
+        </g>
+        <g transform="translate(765,190.65)" id="shape4">
+            <path d="M133,109L133,0L0,0L0,109L133,109z" stroke="#3498db" fill="#3498db"/>
+            <text class="st1">
+                <tspan y="51.8" x="40">Multiply</tspan>
+                <tspan y="67.2" x="26.7">Significands</tspan>
+            </text>
+        </g>
+        <g transform="translate(569,316)" id="shape5">
+            <path d="M329,43L329,0L0,0L0,43L329,43z" stroke="#ee7c31" fill="#ee7c31"/>
+            <text class="st1">
+                <tspan y="26.5" x="154.7">reg</tspan>
+            </text>
+        </g>
+        <g transform="translate(669.5,375.35)" id="shape6">
+            <path d="M76.5,43L76.5,0L0,0L0,43L76.5,43z" stroke="#3498db" fill="#3498db"/>
+            <text class="st1">
+                <tspan y="18.8" x="18.3">Adjust</tspan>
+                <tspan y="34.2" x="11.6">Exponent</tspan>
+            </text>
+        </g>
+        <g transform="translate(765,375.35)" id="shape7">
+            <path d="M133,43L133,0L0,0L0,43L133,43z" stroke="#3498db" fill="#3498db"/>
+            <text class="st1">
+                <tspan y="26.5" x="36.7">Normalize</tspan>
+            </text>
+        </g>
+        <g transform="translate(765,434.7)" id="shape8">
+            <path d="M133,43L133,0L0,0L0,43L133,43z" stroke="#3498db" fill="#3498db"/>
+            <text class="st1">
+                <tspan y="26.5" x="50">Round</tspan>
+            </text>
+        </g>
+        <g transform="translate(765,494.05)" id="shape9">
+            <path d="M133,43L133,0L0,0L0,43L133,43z" stroke="#3498db" fill="#3498db"/>
+            <text class="st1">
+                <tspan y="26.5" x="36.7">Normalize</tspan>
+            </text>
+        </g>
+        <g transform="translate(669.5,494.05)" id="shape10">
+            <path d="M76.5,43L76.5,0L0,0L0,43L76.5,43z" stroke="#3498db" fill="#3498db"/>
+            <text class="st1">
+                <tspan y="18.8" x="18.3">Adjust</tspan>
+                <tspan y="34.2" x="11.6">Exponent</tspan>
+            </text>
+        </g>
+        <g transform="translate(569,562)" id="shape11">
+            <path d="M329,43L329,0L0,0L0,43L329,43z" stroke="#3498db" fill="#3498db"/>
+            <text class="st1">
+                <tspan y="26.5" x="151.3">Pack</tspan>
+            </text>
+        </g>
+        <g transform="translate(569,602.5)" id="shape12">
+            <path d="M329,43L329,0L0,0L0,43L329,43z" stroke="#ee7c31" fill="#ee7c31"/>
+            <text class="st1">
+                <tspan y="26.5" x="154.7">reg</tspan>
+            </text>
+        </g>
+        <path d="M0,13.3L13.3,0L13.3,8L75.4,8L75.4,18.6L13.3,18.6L13.3,26.6L0,13.3z" transform="matrix(0,-1,1,0,662.7,122.4)" stroke="#3498db" id="shape13" fill="#3498db"/>
+        <path d="M0,13.3L13.3,0L13.3,8L75.4,8L75.4,18.6L13.3,18.6L13.3,26.6L0,13.3z" transform="matrix(0,-1,1,0,742.7,123)" stroke="#3498db" id="shape14" fill="#3498db"/>
+        <g transform="translate(603.5,165)" id="shape15">
+            <path d="M0,0L0,33.6" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,38L3,32.8C2.1,33.3,1.1,33.6,0,33.6C-1.1,33.6,-2.1,33.3,-3,32.8L0,38" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(707.75,165)" id="shape16">
+            <path d="M0,0L0,33.6" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,38L3,32.8C2.1,33.3,1.1,33.6,0,33.6C-1.1,33.6,-2.1,33.3,-3,32.8L0,38" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(831.5,165)" id="shape17">
+            <path d="M0,0L0,21.3" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,25.6L3,20.5C2.1,21,1.1,21.3,0,21.3C-1.1,21.3,-2.1,21,-3,20.5L0,25.6" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(603.5,246)" id="shape18">
+            <path d="M0,0L0,61.6" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,66L3,60.8C2.1,61.3,1.1,61.6,0,61.6C-1.1,61.6,-2.1,61.3,-3,60.8L0,66" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(707.75,246)" id="shape19">
+            <path d="M0,0L0,61.6" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,66L3,60.8C2.1,61.3,1.1,61.6,0,61.6C-1.1,61.6,-2.1,61.3,-3,60.8L0,66" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(831.5,299.65)" id="shape20">
+            <path d="M0,0L0,8" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,12.4L3,7.2C2.1,7.7,1.1,8,0,8C-1.1,8,-2.1,7.7,-3,7.2L0,12.4" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(600,368)" id="shape21">
+            <path d="M0,0L0,189.6" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,194L3,188.8C2.1,189.3,1.1,189.6,0,189.6C-1.1,189.6,-2.1,189.3,-3,188.8L0,194" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(707.75,359)" id="shape22">
+            <path d="M0,0L0,12" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,16.4L3,11.2C2.1,11.7,1.1,12,0,12C-1.1,12,-2.1,11.7,-3,11.2L0,16.4" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(831.5,359)" id="shape23">
+            <path d="M0,0L0,12" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,16.4L3,11.2C2.1,11.7,1.1,12,0,12C-1.1,12,-2.1,11.7,-3,11.2L0,16.4" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(831.5,418.35)" id="shape24">
+            <path d="M0,0L0,12" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,16.4L3,11.2C2.1,11.7,1.1,12,0,12C-1.1,12,-2.1,11.7,-3,11.2L0,16.4" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(831.5,477.7)" id="shape25">
+            <path d="M0,0L0,12" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,16.4L3,11.2C2.1,11.7,1.1,12,0,12C-1.1,12,-2.1,11.7,-3,11.2L0,16.4" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(707.75,418.35)" id="shape26">
+            <path d="M0,0L0,71.3" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,75.7L3,70.5C2.1,71,1.1,71.3,0,71.3C-1.1,71.3,-2.1,71,-3,70.5L0,75.7" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(765,396.85)" id="shape27">
+            <path d="M0,0L-14.6,0" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M-19,0L-13.8,3C-14.3,2.1,-14.6,1.1,-14.6,0C-14.6,-1.1,-14.3,-2.1,-13.8,-3L-19,0" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(765,515.55)" id="shape28">
+            <path d="M0,0L-14.6,0" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M-19,0L-13.8,3C-14.3,2.1,-14.6,1.1,-14.6,0C-14.6,-1.1,-14.3,-2.1,-13.8,-3L-19,0" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(707.75,537.05)" id="shape29">
+            <path d="M0,0L0,20.6" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,24.9L3,19.8C2.1,20.3,1.1,20.6,0,20.6C-1.1,20.6,-2.1,20.3,-3,19.8L0,24.9" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(831.5,537.05)" id="shape30">
+            <path d="M0,0L0,20.6" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,24.9L3,19.8C2.1,20.3,1.1,20.6,0,20.6C-1.1,20.6,-2.1,20.3,-3,19.8L0,24.9" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <path d="M0,13.3L13.3,0L13.3,8L75.4,8L75.4,18.6L13.3,18.6L13.3,26.6L0,13.3z" transform="matrix(0,-1,1,0,720.2,720.9)" stroke="#3498db" id="shape31" fill="#3498db"/>
+        <g transform="translate(898,144.5)" id="shape32">
+            <path d="M0,0L32,0L32,439L4.4,439" stroke="#236ea1" fill="none"/>
+            <path stroke-width="1" d="M0,439L5.2,442C4.7,441.1,4.4,440.1,4.4,439C4.4,437.9,4.7,436.9,5.2,436L0,439" stroke="#236ea1" fill="#236ea1" stroke-linecap="round"/>
+        </g>
+        <g transform="translate(552.29,66.19)" id="shape33">
+            <text class="st2">
+                <tspan y="15.8" x="22">Floating-point </tspan>
+                <tspan y="31.2" x="42">operands</tspan>
+            </text>
+        </g>
+        <g transform="translate(609,664.69)" id="shape34">
+            <text class="st2">
+                <tspan y="23.5" x="45.3">Product</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
